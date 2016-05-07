@@ -1,0 +1,5 @@
+*.scp
+*.dat
+*.pyc
+
+.ipynb_checkpoints/
